@@ -10,7 +10,7 @@ I’m Steve a designer who codes. I’m interested in bridging the gap between d
 - Next.js
 - Gatsby.js
 - Design systems
-- Applying design tokens
+- Applying design tokens to a design system and codebase
 
 ## 💬 Ask me about
 - UI critique
