@@ -3,8 +3,8 @@
 I’m Steve a designer who codes. I’m interested in bridging the gap between design and development, to make designs easier to implement and look as they were intended.
 
 ## 🔭 I’m currently working on
-- iamsteve.me, a design and code blog I can’t quite get back to posting on
-- mcknny.com, work in progress portfolio
+- [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
+- [mcknny.com](https://mcknny.com) work in progress portfolio built with Gatsby.js
 
 ## 🌱 I’m currently learning
 - Next.js
