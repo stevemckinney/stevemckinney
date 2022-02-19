@@ -10,7 +10,9 @@ I’m Steve a designer who codes. I’m interested in creating design systems th
 - Next.js
 - Gatsby.js
 - Design systems
-- Applying design tokens to a design system and codebase
+  - Purpose  
+  - Maintenance
+  - Tokens (how they’re applied in design & codebase)
 
 ## 💬 Ask me about
 - UI critique
