@@ -6,13 +6,10 @@ I’m Steve a designer who codes. I’m interested in creating design systems th
 - [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
 - [mcknny.com](https://mcknny.com) work in progress portfolio built with Gatsby.js
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently focusing on
 - Next.js
 - Gatsby.js
-- Design systems
-  - Purpose  
-  - Maintenance
-  - Tokens (how they’re applied in design & codebase)
+- UI & visual design
 
 ## 💬 Ask me about
 - UI critique
