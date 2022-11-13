@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Steve a designer who codes. I’m interested in creating design systems that bridge the gap between design and code.
+I’m Steve a designer who codes. I’m interested in designing stuff finds a blend between creativity and maintainability. I strive for strong use of colour and typography. 
 
 ## 🔭 I’m currently working on
 - [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
