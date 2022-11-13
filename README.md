@@ -6,10 +6,12 @@ I’m Steve a designer who codes. I’m interested in designing stuff finds a bl
 - [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
 - [mcknny.com](https://mcknny.com) work in progress portfolio built with Gatsby.js
 
-## 🌱 I’m currently focusing on
+## 🌱 I’m currently focusing on getting better at
 - Next.js
 - Gatsby.js
 - UI & visual design
+  - Grid and layout
+  - Colour
 
 ## 💬 Ask me about
 - UI critique
