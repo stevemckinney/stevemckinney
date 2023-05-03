@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Steve a designer who codes. I’m interested in designing stuff finds a blend between creativity and maintainability. My style tends to be balanced compositions with strong typography and bold colour. 
+I’m Steve a designer who codes. I’m interested in designing stuff whch finds a blend between creativity and maintainability. My style tends to be balanced compositions with strong typography and bold colour. 
 
 ## 🔭 I’m currently working on
 - [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
