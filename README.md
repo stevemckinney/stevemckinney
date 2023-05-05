@@ -8,10 +8,11 @@ I’m Steve a designer who codes. I’m interested in designing stuff whch finds
 
 ## 🌱 I’m currently focusing on getting better at
 - Next.js
-- Gatsby.js
 - UI & visual design
   - Grid and layout
   - Colour
+  - Interaction
+  - Animations
 
 ## 💬 Ask me about
 - UI critique
