@@ -7,13 +7,14 @@ I’m Steve a designer who codes. I’m interested in designing stuff whch finds
 - [mcknny.com](https://mcknny.com) work in progress portfolio built with Gatsby.js
 
 ## 🌱 I’m currently focusing on
-- Getting my blog redesigned and launched
-- Next.js
-- UI & visual design
-  - Grid and layout
-  - Colour
-  - Interaction
-  - Animations
+- [x] Getting my blog redesigned and launched
+- [ ] Writing some articles
+- [] Next.js
+- [] UI & visual design
+  - []  Grid and layout
+  - [] Colour
+  - [] Interaction
+  - [] Animations
 
 ## 💬 Ask me about
 - UI critique
