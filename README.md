@@ -3,15 +3,15 @@
 I’m Steve a designer who codes. I’m interested in designing products which find a blend between creativity and maintainability. My style tends to be balanced compositions with strong typography and bold colour. 
 
 ## 🔭 I’m currently working on
-- [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js (someday I’ll post frequently again)
-- [mcknny.com](https://mcknny.com) work in progress portfolio built with Gatsby.js
+- [iamsteve.me](https://iamsteve.me) a design and code blog built with Next.js
+- [mcknny.com](https://mcknny.com) an ever a work in progress portfolio built with Astro
 
 ## 🌱 I’m currently focusing on
 - [x] Getting my blog redesigned and launched
 - [ ] Writing some articles
 - [ ] Next.js
 - [ ] UI & visual design
-  - [ ]  Grid and layout
+  - [ ] Grid and layout
   - [ ] Colour
   - [ ] Interaction
   - [ ] Animations
