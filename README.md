@@ -7,14 +7,8 @@ I’m Steve a designer who codes. I’m interested in designing products which f
 - [mcknny.com](https://mcknny.com) an ever a work in progress portfolio built with Astro
 
 ## 🌱 I’m currently focusing on
-- [x] Getting my blog redesigned and launched
-- [ ] Writing some articles
-- [ ] Next.js
-- [ ] UI & visual design
-  - [ ] Grid and layout
-  - [ ] Colour
-  - [ ] Interaction
-  - [ ] Animations
+- [ ] UI, visual design and interaction
+- [ ] Building with AI without losing what makes design fun
 
 ## 💬 Ask me about
 - UI critique
